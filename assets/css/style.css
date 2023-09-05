@@ -36,3 +36,45 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+.tela-abertura {
+    width: 600px;
+}
+.foto-elenco {
+    width: 600px;
+}
+.episodios {
+    margin: 1em 0px;
+    border-width: 1px;
+    border-image: initial;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+.linha-par {
+    text-align: center; 
+    background-color: cadetblue; 
+    color: white;
+}
+.linha-impar {
+    text-align: center; 
+}
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 8px;
+    border: 1px solid;
+    border-style: solid;
+    color: #Ffffff;
+    border-color: rgb(162, 169, 177);
+    background-color: #005857;
+}
+td {
+    padding: 0 8px;
+    border: 1px solid;
+    border-style: solid;
+    border-color: rgb(162, 169, 177);
+}
+.temporada {
+    margin-left: 10px;
+}
